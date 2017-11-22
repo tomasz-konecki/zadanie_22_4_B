@@ -80,10 +80,7 @@
           "target-path": "server/models/<%= name %>.js"
         }
       ]
-    }
-  ]
-}
-
+    },
     {
       "name": "arrow-function-s",
       "description": "Generates a functional react component in shared components",
@@ -107,3 +104,5 @@
         }
       ]
     }
+  ]
+}
